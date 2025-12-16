@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mood-login-ui/static/css/main.4252292b.css",
+    "main.js": "/mood-login-ui/static/js/main.5374e953.js",
+    "static/js/453.1f923fb2.chunk.js": "/mood-login-ui/static/js/453.1f923fb2.chunk.js",
+    "index.html": "/mood-login-ui/index.html",
+    "main.4252292b.css.map": "/mood-login-ui/static/css/main.4252292b.css.map",
+    "main.5374e953.js.map": "/mood-login-ui/static/js/main.5374e953.js.map",
+    "453.1f923fb2.chunk.js.map": "/mood-login-ui/static/js/453.1f923fb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4252292b.css",
+    "static/js/main.5374e953.js"
+  ]
+}
